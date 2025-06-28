@@ -27,4 +27,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: Numcraft-app
-          path: target/thumbv7em-none-eabihf/release/Numcraft.nwa
+          path: target/thumbv7em-none-eabihf/debug/Numcraft.nwa
